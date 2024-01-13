@@ -1,0 +1,20 @@
+Sou professor em um curso e gostaria de criar uma automação para emitir os certificados.
+
+Os dados estão em uma planilha e gostaria de transferir para a imagem salvado com o formato jpg.
+
+Os campos a serem preenchidos serão:
+
+Nome do curso
+Nome do participante
+Tipo de participação
+Data do início
+Data do término
+Data da emisão do certificado
+Carga horária
+
+
+Assinatura do gestor Geral
+
+Assinatura do coordenador
+
+Assinatura do coordenador
